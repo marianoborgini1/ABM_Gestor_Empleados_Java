@@ -1,0 +1,12 @@
+# Ignorar el archivo de base de datos local
+datos.dat
+
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar carpetas de compilación
+bin/
+out/
+
+# Ignorar configuraciones de VS Code
+.vscode/
